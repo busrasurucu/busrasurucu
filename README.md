@@ -15,8 +15,8 @@
 ---
 
 ### 🥳 🌍 About Me 🗺 📚 💻
-I am a Data Scientist and Nutritionist.
-- I am a Data Scientist and Nutritionist.
+
+- 🕵🏼 I am a Data Scientist and Nutritionist.
 - 🌱 I am currently training in the Miuul program to become a senior Data Scientist.
 - 🧠 I am passionate about all things data (collecting, pre-processing, analyzing, visualizing, reporting, extracting information, etc.).
 - ✍️ I try to write regularly on [Medium](https://medium.com/@busrasurucu).
