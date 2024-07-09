@@ -27,7 +27,6 @@ I am a Data Scientist and Nutritionist.
 <div>
   <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />&nbsp;
   <img align="left" alt="jupyter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />&nbsp;
-  <br> <br>
   <img align="left" alt="github" width="40px" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />&nbsp;
   <img align="left" alt="github" width="40px" height="40" src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" />&nbsp;
   
